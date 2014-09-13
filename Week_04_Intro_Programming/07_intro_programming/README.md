@@ -48,7 +48,7 @@ Many students know programming as a buzz word, and don't realize programming is 
 __Sample Pseudo Code For A Thermostat.__
 
 ```
-get target_temprature
+get target_temperature
 target_temperature = 72
 repeat forever,
       current_temperature = get_sensor_reading
