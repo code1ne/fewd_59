@@ -11,60 +11,20 @@ Instructors current role.
 
 ##Agenda
 
-*	Student Experience
-*	Intro To Web Development
-*	HTML Tags
+*	HTML Tags & CSS Selectors Review
+*	Structure Reading w/ Understanding
+*	External Style Sheets
 *	Lab Time
 
 ---
 
 
-##Student Experience
 
-*	Ask your producer and then decide how you would like to structure this lesson.
-
----
-
-
-
-##Intro To Web Development
+##HTML Tags & CSS Selectors Review
 
 
 ---
 
-##Front-End Web Development
-
-Client-Side
-
-*	HTML
-*	CSS
-*	JavaScript	
-
----
-
-##Back-End Web Development
-
-Server-Side
-
-*	Ruby
-*	PHP
-*	Python
-*	PERL
-*	C++
-
----
-
-
-
-##HTML Tags
-
----
-
-
-![GeneralAssemb.ly](../../img/icons/code_along.png)
-##General Assembly Press Release
-
----
 
 ##HTML Basics
 
@@ -155,6 +115,16 @@ links 
 
 --
 
+![GeneralAssemb.ly](../../img/icons/code_along.png)
+##General Assembly Press Release
+
+---
+
+
+##External STyle Sheets 
+
+---
+
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
 ##Cookie Recipe
@@ -164,6 +134,7 @@ links 
 ## Homework
 
 *	Create a resume website
-*	Watch a video about the Internet
+*	Watch a video on the Internet about the Internet
+*	Read about CSS Colors
 
 ---

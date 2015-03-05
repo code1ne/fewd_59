@@ -11,14 +11,18 @@ Instructors current role.
 
 ##Agenda
 
-*	HTML Basics Review
-*	Images
-*	Intro To CSS
-	*	Link Tag
+*	HTML & External Style Sheet Review
+*	Building A Simple Web Page
+	*	Images
+	*	Nav
 	*	Colors
 	*	Fonts
-*	Linking To Other Pages
+	*	Linking To Other Pages
 *	Lab Time
+
+---
+
+##HTML Basics Review
 
 ---
 
@@ -27,13 +31,11 @@ Instructors current role.
 
 ---
 
-
-##HTML Basics Review
+##Building Websites`
 
 ---
 
-
-##Html Basics - Images
+##Images
 
 *	Images are placed using the ```<img>``` tag.
 
@@ -41,13 +43,13 @@ Instructors current role.
 
 ---
 
-##Html Basics - Images
+##Images
 
-The `img` tag requires a `src` attribute, which tells the browser where to find the image to be placed.
+The `img` tag requires a `src` attribute, which tells the browser where to find the image.
 
 ---
 
-##Html Basics - Images
+##Images
 
 How would you write the src?
 
@@ -57,7 +59,7 @@ How would you write the src?
 			
 ---
 
-##Html Basics - Images
+##Images
 
 *	Inside ```webroot```, a relative path could be used:
 	
@@ -65,7 +67,7 @@ How would you write the src?
 
 ---
 
-##Html Basics - Images
+##Images
 Relative Path
 	
 ![Parent Folder Structure](../../img/unit_1/folder_structure_parentDirectory.png)
@@ -79,23 +81,32 @@ Note that ```..``` means to go up a directory, and can be used repeatedly: `../.
 
 ---
 
-##Html Basics - Images
+##Images
 
 Absolute Path
 
 ```<img src="/images/logo.png">```
 
 Note:
+<<<<<<< HEAD
 Absolute URLs start with a `/`, so if we imagine that our `webroot` directory was stored on a server such that the `webroot/index.html` file is accessible at `http://example.com/index.html`, then placing the logo image could be done from any html page with: ```<img src="/images/logo.png">```
 
+=======
+	Absolute URLs start with a `/`, so if we imagine that our `webroot` directory was stored on a server such that the `webroot/index.html` file is accessible at `http://example.com/index.html`, then placing the logo image could be done from any html page with: ```<img src="/images/logo.png">```
+	
+>>>>>>> FEWD_2.0.1
 The benefit here is that this same ```src``` path works on any html page, no matter what its location, so the same ```img``` tag can be used on both the ```webroot/index.html``` page and the ```webroot/about/index.html``` page.
 
 The downside is that the path only works if the project is stored to a proper location for serving.
+<<<<<<< HEAD
+=======
+
+>>>>>>> FEWD_2.0.1
 
 ---
 
 
-##Html Basics - Images
+##HTML Basics - Images
 Full URL
 
 		<img src="https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/397/thumb_User-Experience-Sketching.jpg">
@@ -106,7 +117,7 @@ For linking to images, make sure that you have permission to use the image in th
 
 ---
 
-##Html Basics - Images
+##HTML Basics - Images
 
 alt attribute
 
@@ -128,9 +139,10 @@ Reasons an image may not load:
 
 *	The user is using a screen reader because she has low vision, which will read the `alt` text aloud or present it through a braille reader.
 
+
 ---
 
-##Html Basics - Images
+##HTML Basics - Images
 
 There are three main image file formats:
 
@@ -162,6 +174,7 @@ Supports transparency and semi-transparency, great for logos, icons, and repeati
 Note:
 No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos. (Try to balance between photo quality and file size.)
 
+
 ---
 
 
@@ -189,6 +202,7 @@ Where does CSS go?
 Note:
 CSS should go in a separate file. We're going to start by placing them in the head for convenience and to learn the syntax. We'll show inline styles at the end, just to demonstrate.
 
+
 ---
 
 ##CSS
@@ -203,6 +217,7 @@ Note:
 "The `link` tag needs two attributes: `rel="stylesheet"` and an `href` attribute.
 
 The `href` attribute value works very similarly to linking to an image, or to another page.
+
 
 ---
 
@@ -260,6 +275,7 @@ Note:
 Every declaration is a **property** followed by a **value**, separated by a colon, ending in a semicolon.
 
 In this declaration, we are setting the `color` **property** to the **value** `red`.
+
 
 ---
 
@@ -392,6 +408,7 @@ Note:
 As an example, red is ```hsl(0, 100%, 50%)```, which is equivalent to ```#FF0000```.
 
 Note that changing the opacity allows whatever colors are "behind" an element to shine through, which can alter the visible color significantly, especially at lower opacities.
+
 
 ---
 
