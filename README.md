@@ -100,6 +100,6 @@ In order to pass this course General Assembly students must:
 
 ##QUESTIONS
 
-If you have any questions please send them to your Education Product Manager, [Jessica Skeete](jessicat@generalassemb.ly)
+If you have any questions please send them to the Product Manager for FEWD, [Mehan Jayasuriya](mehan@generalassemb.ly)
 
 
