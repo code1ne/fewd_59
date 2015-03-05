@@ -55,11 +55,7 @@ We've supplied a folder for each week and lesson. In these folders we've include
 
 6.	__Use The Slide Deck To Determine lesson flow.__ The slides.md files we provide is a base. You need to update it and make sure it fits the story you want to tell. If you prefer not to use slides, use the markdown file to help you plan the flow of the class.
 
-<<<<<<< HEAD
-6.	If not using the GA suggested in class labs, create your own and make sure it hits the same topics and learning objectives for that lesson. Please share your changes or new exercises with the curriculum team. We want to build the best curriculum and that can only happen with your help.
-=======
 7.	If not using the GA suggested in code alongs, create your own and make sure it hits the same topics and learning objectives for that lesson. Please share your changes or new code alongs with the curriculum team. We want to build the best curriculum and that can only happen with your help.
->>>>>>> FEWD_2.0.1
 
 8.	Practice using reveal.js. It can be tricky to get the hang of the workflow. 
 
@@ -68,11 +64,7 @@ We've supplied a folder for each week and lesson. In these folders we've include
 
 *	We suggest using reveal.js with external markdown.
 
-<<<<<<< HEAD
-*	Any text following the line `Note:` in a given slide will not appear in the presented deck. However, when you share the rendered markdown, students will see the notes. This is a great place to put presenter notes and additional information you would like students to read outside of class.
-=======
 *	Any text following the line `Note:` in a given slide will not appear in the presented deck. However, when you share the rendered markdown (i.e as a pdf), students will see the notes. This is a great place to put presenter notes and additional information you would like students to read outside of class.
->>>>>>> FEWD_2.0.1
 
 *	See [here](https://github.com/hakimel/reveal.js) for further documentation about Reveal.js. 
 
