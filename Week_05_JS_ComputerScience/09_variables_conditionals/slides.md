@@ -18,31 +18,7 @@ Instructors current role.
 
 ---
 
-
-<<<<<<< HEAD:Week_04_Intro_JavaScript/07_js_basics/slides.md
-__Syntax:__ Spelling and grammar rules of a programming language. 
-
-
-Note:
-Like with any language, there are formal rules around how to write it. This is the syntax.
-
-
----
-
-##JS Syntax
-
-*	Semicolon
-*	Brackets
-*	Parentheses
-*	Quotation Marks
-
----
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##JS Basics
-=======
 ##Review
->>>>>>> FEWD_2.0.1:Week_05_JS_ComputerScience/09_variables_conditionals/slides.md
 
 ---
 
@@ -321,11 +297,7 @@ if (name == "GA"  && password == "YellowPencil"){
 
 ##The Truth Table
 
-<<<<<<< HEAD:Week_04_Intro_JavaScript/07_js_basics/slides.md
-![](../img/unit_1/and_table.png)
-=======
 ![](../../img/unit_1/and_table.png)
->>>>>>> FEWD_2.0.1:Week_05_JS_ComputerScience/09_variables_conditionals/slides.md
 
 ---
 
@@ -341,13 +313,7 @@ if (day == "Tuesday"  || day == "Thursday"){
 
 ##The Truth Table
 
-<<<<<<< HEAD:Week_04_Intro_JavaScript/07_js_basics/slides.md
-![](../img/unit_1/or_table.png)
 
----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-=======
 ![](../../img/unit_1/or_table.png)
 
 ---
@@ -363,7 +329,6 @@ if (day == "Tuesday"  || day == "Thursday"){
 
 
 ![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
->>>>>>> FEWD_2.0.1:Week_05_JS_ComputerScience/09_variables_conditionals/slides.md
 ##Temp Converter
 
 ---
