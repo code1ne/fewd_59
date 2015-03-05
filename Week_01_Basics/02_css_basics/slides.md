@@ -409,7 +409,7 @@ Note that changing the opacity allows whatever colors are "behind" an element to
 ##CSS
 ###Review
 
-Add a couple points here wit hthe major take aways foe the basics of CSS.
+Add a couple points here with the major takeaways for the basics of CSS.
 
 
 ---
