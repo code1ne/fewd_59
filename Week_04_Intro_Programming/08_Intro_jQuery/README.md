@@ -105,7 +105,7 @@ _Time: 60min_
 | __Time__ | 60min |
 | __Topics__ | jQuery functions, adding interactivity| 
 | __Description__|As a class build an interactive accordion style FAQ section. |    
-| __Notes__| This exercise is meant to teach students the process of adding interactivity and continue to practice using jQuery. See here for [notes]() from the Curriculum Fellow | 
+| __Notes__| This exercise is meant to teach students the process of adding interactivity and continue to practice using jQuery. See here for [notes](solutions/notes_from_the_curriculum_fellow.md) from the Curriculum Fellow | 
 
 
 ===
