@@ -17,30 +17,16 @@
 
 | Time        | Section| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-<<<<<<< HEAD
-| 60 min |Student Experience | Plan with producers| The first hour of the course will be spent setting expectations and building community in the classroom. |
-| 20 min |Intro To Front-End Web Development| | Intro to web development and responsibilities of front-end web developers. From HTML to HTML5 |
-| 10 min | Navigating Your Computer | | __Optional__. Recently, we've seen a need to explain how and where to save files on the computer and how to open files using Sublime text. Some students don't know how to navigate their computer.|
-| 60 min |HTML Tags & Using Sublime| [GA Press Release]()| Basic site to demonstrate html files and tags. This is another opportunity to show students how to use sublime text. This will make sure everyone is up to speed and ready to move forward.|
-| 30 min |Lab Time | [Cookies Recipe]()<br> [Resume]() | Students add tags to a Cookie recipe and start to "markup" their resume. |
-
-
-###[Homework](../Homework/)
-=======
 | _10 min_ | [HTML Tag & CSS Selectors Review](https://github.com/generalassembly-studio/FEWD_2.0.0/blob/FEWD_2.0.1/Week_01_Basics/01_html_basics/README.md#html-tags--css-selectors-review) | N/A | Review basic rules about HTML tags and CSS element selectors. Students were introduced to selectors and tags in Dash. |
 | _60 min_ | [Adding Structure](https://github.com/generalassembly-studio/FEWD_2.0.0/tree/FEWD_2.0.1/Week_01_Basics/01_html_basics#adding-structure) | GA Press Release | Basic site to review .html files and tags. Another great opportunity to show students how to use sublime text, and get everyone up to speed and ready to move forward.|
 | _60 min_ | [External Style Sheets](https://github.com/generalassembly-studio/FEWD_2.0.0/tree/FEWD_2.0.1/Week_01_Basics/01_html_basics#external-style-sheets) |GA Press Release| Demonstrate how to create an external style sheet using the press release. Review CSS selectors by styling the press release as you see fit.|
 | _50 min_ | [Lab Time](https://github.com/generalassembly-studio/FEWD_2.0.0/tree/FEWD_2.0.1/Week_01_Basics/01_html_basics#lab-time) | Cookies Recipe | Students add tags to a Cookie recipe, and style as they see fit.|
->>>>>>> FEWD_2.0.1
 
 
 ---
 
 ###LESSON PLANNING NOTES
 
-
-*	Attach meaning to tags and show students how to approach content. 
-=======
 Below you will find notes on each section from the proposed schedule above. These notes are  meant to help you plan for a great class.
 
 
@@ -53,8 +39,6 @@ Suggestions for pattern examples:
 
 *	It starts with an opening tag and ends with a closing tag.
 
-	*	__Exception__: Only tags which don't need to close are those which contain no nested content? That is, img, input, br, hr, etc (nested content could include text and text according to JS is a node in and of itself).
-=======
 	*	__Exception__: Only tags which don't need to close are those which contain no nested content? That is, img, input, br, hr, etc.
 
 
