@@ -88,20 +88,13 @@ Absolute Path
 ```<img src="/images/logo.png">```
 
 Note:
-<<<<<<< HEAD
-Absolute URLs start with a `/`, so if we imagine that our `webroot` directory was stored on a server such that the `webroot/index.html` file is accessible at `http://example.com/index.html`, then placing the logo image could be done from any html page with: ```<img src="/images/logo.png">```
 
-=======
 	Absolute URLs start with a `/`, so if we imagine that our `webroot` directory was stored on a server such that the `webroot/index.html` file is accessible at `http://example.com/index.html`, then placing the logo image could be done from any html page with: ```<img src="/images/logo.png">```
 	
->>>>>>> FEWD_2.0.1
 The benefit here is that this same ```src``` path works on any html page, no matter what its location, so the same ```img``` tag can be used on both the ```webroot/index.html``` page and the ```webroot/about/index.html``` page.
 
 The downside is that the path only works if the project is stored to a proper location for serving.
-<<<<<<< HEAD
-=======
 
->>>>>>> FEWD_2.0.1
 
 ---
 
