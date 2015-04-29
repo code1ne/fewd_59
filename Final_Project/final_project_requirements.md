@@ -15,17 +15,17 @@ The final project for FEWD will be to design and build a website of your choice.
 ##CORE REQUIREMENTS
 
 Use Web dev process to plan and develop
-*	Demonstrate the process to plan and build your website by submitting all milestones. (see below
+*	Demonstrate the process to plan and build your website by submitting all milestones. (see below)
 
 Use HTML to correctly structure the DOM	
-*	Use HTML5 structural elements (header, footer, nav, footer).
-*	Demonstrates correct use of classes and IDs. 
+*	Use HTML5 structural elements (header, footer, nav, etc).
+*	Demonstrate correct use of classes and IDs. 
 *	Use classes for identifying a type of element, and IDs for identifying a specific unique element on the page.
-*	Selects appropriate tags to markup content.
+*	Select appropriate tags to markup content.
 
 Use CSS to style the page
-*	Demonstrate apply fonts, color to a page.
-*	Demonstrate use floats and the box model.
+*	Demonstrate applying fonts and color to a page.
+*	Demonstrate using floats and the box model.
 
 Use JavaScript/jQuery to make the page interactive	
 *	Make use of JavaScript/jQuery events to add interactivity to the page.
@@ -55,4 +55,4 @@ Your instructional team will provide feedback on how well you execute best pract
 
 ##GRADING
 
-Ask your producer for the rubric. A project is considered satisfactory if it meets all core requirements and submitting all milestones.
+Ask your producer for the rubric. A project is considered satisfactory if it meets all core requirements and you submit all milestones.
